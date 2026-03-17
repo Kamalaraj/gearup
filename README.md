@@ -173,6 +173,5 @@ After a successful order, the customer sees the final order summary and the gene
 npm run dev
 npm run build
 npm run start
-npm run seed:products
 ```
 # gearup
