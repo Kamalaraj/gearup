@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply min-h-screen bg-background bg-hero-mesh text-foreground antialiased;
+}
+
+a {
+  @apply text-inherit no-underline;
+}
+
+* {
+  @apply border-border;
+}
